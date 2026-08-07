@@ -14,6 +14,3 @@ I'm somebody that tinkers in all sorts of subjects preferring a hands-on approac
   * I lift heavy circles in the gym!
   * I renovated my moms house and garage with no prior experience!
 
-### Socials
-
-<p align="left"> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/patrik-tilecky" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
