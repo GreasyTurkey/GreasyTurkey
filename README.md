@@ -34,5 +34,3 @@ When I'm off the clock you'll often find me enjoying some Videogames, lifting he
 | Intro to Markdown | ✅ | WIP |
 | Azure Fundamentals | ☐ | WIP |  
 
-## Other Related Skills
-
