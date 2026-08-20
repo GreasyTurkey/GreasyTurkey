@@ -31,6 +31,4 @@ When I'm off the clock you'll often find me enjoying some Videogames, lifting he
 
 | Skill | Completion | Link |
 | --- | --- | --- |
-| Intro to Markdown | ✅ | [Link](https://greasyturkey.github.io/Intro-to-Markdown/) |
-| Cloud Fundamentals using Azure | ✅ | [Link](https://greasyturkey.github.io/Cloud-Fundamentals-using-Azure//) |  
 
